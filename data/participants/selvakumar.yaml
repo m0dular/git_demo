@@ -1,0 +1,6 @@
+---
+git_demo::participants:
+  - name: 'Adrian'
+    favorite: 'Pickles'
+  - name: 'Selvakumar'
+    favorite: 'Jack fruit'
