@@ -1,4 +1,4 @@
 ---
-git_demo participants:
- name: 'Thomas'
- favorite: 'pizza'
+git_demo::participants:
+  - name: 'thomas'
+    favorite: 'pizza'
