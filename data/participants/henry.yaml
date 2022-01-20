@@ -1,0 +1,4 @@
+---
+git_demo::participants:
+  - name: 'Henry'
+    favorite: 'Toto'
